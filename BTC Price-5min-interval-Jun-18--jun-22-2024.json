@@ -1,0 +1,1946 @@
+[
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79155.93200000",
+      "sumOpenInterestValue": "5098532266.23468000",
+      "timestamp": 1718740800000,
+      "close": "65175.32000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77688.61500000",
+      "sumOpenInterestValue": "5061413267.25000000",
+      "timestamp": 1718755200000,
+      "close": "65404.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77162.82800000",
+      "sumOpenInterestValue": "5044635624.74200000",
+      "timestamp": 1718769600000,
+      "close": "65326.89000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78605.85400000",
+      "sumOpenInterestValue": "5132569236.93000000",
+      "timestamp": 1718784000000,
+      "close": "65210.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77368.29100000",
+      "sumOpenInterestValue": "5043012207.13290000",
+      "timestamp": 1718798400000,
+      "close": "64922.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76244.70100000",
+      "sumOpenInterestValue": "4947927163.97714300",
+      "timestamp": 1718812800000,
+      "close": "64882.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75433.89800000",
+      "sumOpenInterestValue": "4892477678.16434100",
+      "timestamp": 1718827200000,
+      "close": "64974.37000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75443.81300000",
+      "sumOpenInterestValue": "4899797084.02075100",
+      "timestamp": 1718841600000,
+      "close": "65189.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75505.64300000",
+      "sumOpenInterestValue": "4920144012.55180000",
+      "timestamp": 1718856000000,
+      "close": "65858.84000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77759.24800000",
+      "sumOpenInterestValue": "5119000158.78720000",
+      "timestamp": 1718870400000,
+      "close": "66169.85000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77801.70700000",
+      "sumOpenInterestValue": "5146575137.87930000",
+      "timestamp": 1718884800000,
+      "close": "64831.23000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74912.23200000",
+      "sumOpenInterestValue": "4854391205.90581700",
+      "timestamp": 1718899200000,
+      "close": "65050.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74156.39300000",
+      "sumOpenInterestValue": "4822345742.95420000",
+      "timestamp": 1718913600000,
+      "close": "64869.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74377.63200000",
+      "sumOpenInterestValue": "4823679507.96480000",
+      "timestamp": 1718928000000,
+      "close": "64506.14000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74335.55200000",
+      "sumOpenInterestValue": "4793037456.07680000",
+      "timestamp": 1718942400000,
+      "close": "64201.63000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75663.49100000",
+      "sumOpenInterestValue": "4856173648.56920000",
+      "timestamp": 1718956800000,
+      "close": "63770.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76552.43400000",
+      "sumOpenInterestValue": "4880173614.01702100",
+      "timestamp": 1718971200000,
+      "close": "63732.02000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77067.85600000",
+      "sumOpenInterestValue": "4909986631.51368500",
+      "timestamp": 1718985600000,
+      "close": "64232.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78078.05200000",
+      "sumOpenInterestValue": "5014242769.68680000",
+      "timestamp": 1719000000000,
+      "close": "64143.56000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76738.13400000",
+      "sumOpenInterestValue": "4920756104.61600000",
+      "timestamp": 1719014400000,
+      "close": "64327.45000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77072.37300000",
+      "sumOpenInterestValue": "4955530074.01830000",
+      "timestamp": 1719028800000,
+      "close": "64520.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78083.79800000",
+      "sumOpenInterestValue": "5035631941.39980000",
+      "timestamp": 1719043200000,
+      "close": "64265.26000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77520.88900000",
+      "sumOpenInterestValue": "4980333907.20525800",
+      "timestamp": 1719057600000,
+      "close": "64307.08000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77654.14400000",
+      "sumOpenInterestValue": "4991877827.38748700",
+      "timestamp": 1719072000000,
+      "close": "64295.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77671.47900000",
+      "sumOpenInterestValue": "4992015859.66110000",
+      "timestamp": 1719086400000,
+      "close": "64262.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78036.85600000",
+      "sumOpenInterestValue": "5013284397.43553000",
+      "timestamp": 1719100800000,
+      "close": "64416.14000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77594.58500000",
+      "sumOpenInterestValue": "4996237733.56500000",
+      "timestamp": 1719115200000,
+      "close": "64415.27000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77461.75800000",
+      "sumOpenInterestValue": "4987770343.79580000",
+      "timestamp": 1719129600000,
+      "close": "64341.45000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77950.25100000",
+      "sumOpenInterestValue": "5013035206.98570000",
+      "timestamp": 1719144000000,
+      "close": "64094.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78658.84300000",
+      "sumOpenInterestValue": "5039805791.04310000",
+      "timestamp": 1719158400000,
+      "close": "64149.78000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77804.60300000",
+      "sumOpenInterestValue": "4989508044.40610000",
+      "timestamp": 1719172800000,
+      "close": "63210.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77593.98600000",
+      "sumOpenInterestValue": "4903544185.87140000",
+      "timestamp": 1719187200000,
+      "close": "62862.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79481.42200000",
+      "sumOpenInterestValue": "4994612558.48000000",
+      "timestamp": 1719201600000,
+      "close": "62456.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81527.73700000",
+      "sumOpenInterestValue": "5090070120.76320000",
+      "timestamp": 1719216000000,
+      "close": "61291.95000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79428.27200000",
+      "sumOpenInterestValue": "4865863313.81920000",
+      "timestamp": 1719230400000,
+      "close": "60843.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80540.15800000",
+      "sumOpenInterestValue": "4898702084.04980000",
+      "timestamp": 1719244800000,
+      "close": "59306.72000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78141.21300000",
+      "sumOpenInterestValue": "4635203915.09790000",
+      "timestamp": 1719259200000,
+      "close": "60293.30000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76111.89900000",
+      "sumOpenInterestValue": "4587530544.37650000",
+      "timestamp": 1719273600000,
+      "close": "61302.59000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75647.88500000",
+      "sumOpenInterestValue": "4635044256.20050000",
+      "timestamp": 1719288000000,
+      "close": "60685.16000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75940.29600000",
+      "sumOpenInterestValue": "4606287752.38320000",
+      "timestamp": 1719302400000,
+      "close": "61187.64000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74706.33100000",
+      "sumOpenInterestValue": "4570494324.33820800",
+      "timestamp": 1719316800000,
+      "close": "61810.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78922.83400000",
+      "sumOpenInterestValue": "4875529100.90060000",
+      "timestamp": 1719331200000,
+      "close": "61975.46000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75539.44300000",
+      "sumOpenInterestValue": "4681608011.37226400",
+      "timestamp": 1719345600000,
+      "close": "61806.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75584.46100000",
+      "sumOpenInterestValue": "4669622161.67721300",
+      "timestamp": 1719360000000,
+      "close": "61936.07000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75965.42600000",
+      "sumOpenInterestValue": "4703049909.83040000",
+      "timestamp": 1719374400000,
+      "close": "61720.02000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76491.78000000",
+      "sumOpenInterestValue": "4719948232.43400000",
+      "timestamp": 1719388800000,
+      "close": "61445.26000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75914.70900000",
+      "sumOpenInterestValue": "4663494798.50847000",
+      "timestamp": 1719403200000,
+      "close": "61467.86000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75398.51100000",
+      "sumOpenInterestValue": "4632828088.67378400",
+      "timestamp": 1719417600000,
+      "close": "61000.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74298.70800000",
+      "sumOpenInterestValue": "4531545069.75720000",
+      "timestamp": 1719432000000,
+      "close": "60864.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74876.90000000",
+      "sumOpenInterestValue": "4557136663.65067500",
+      "timestamp": 1719446400000,
+      "close": "61037.31000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74824.34500000",
+      "sumOpenInterestValue": "4566305302.31500000",
+      "timestamp": 1719460800000,
+      "close": "60794.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75305.61600000",
+      "sumOpenInterestValue": "4577629253.34149000",
+      "timestamp": 1719475200000,
+      "close": "61196.02000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75042.49500000",
+      "sumOpenInterestValue": "4592151210.74375500",
+      "timestamp": 1719489600000,
+      "close": "61576.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75123.45800000",
+      "sumOpenInterestValue": "4625388870.78900000",
+      "timestamp": 1719504000000,
+      "close": "61450.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74350.65900000",
+      "sumOpenInterestValue": "4568379586.39830000",
+      "timestamp": 1719518400000,
+      "close": "61706.47000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74906.65300000",
+      "sumOpenInterestValue": "4620399661.01130000",
+      "timestamp": 1719532800000,
+      "close": "61828.17000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "74167.81800000",
+      "sumOpenInterestValue": "4583786239.07220000",
+      "timestamp": 1719547200000,
+      "close": "61350.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "75170.82200000",
+      "sumOpenInterestValue": "4610303743.54903800",
+      "timestamp": 1719561600000,
+      "close": "61690.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "76359.68300000",
+      "sumOpenInterestValue": "4709208554.16620000",
+      "timestamp": 1719576000000,
+      "close": "61062.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77060.20900000",
+      "sumOpenInterestValue": "4704444429.77714500",
+      "timestamp": 1719590400000,
+      "close": "60123.73000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78215.49700000",
+      "sumOpenInterestValue": "4702271366.40066700",
+      "timestamp": 1719604800000,
+      "close": "60427.84000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78522.05500000",
+      "sumOpenInterestValue": "4745103580.23647000",
+      "timestamp": 1719619200000,
+      "close": "60762.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77824.72300000",
+      "sumOpenInterestValue": "4728630169.48000000",
+      "timestamp": 1719633600000,
+      "close": "61052.30000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78041.01600000",
+      "sumOpenInterestValue": "4764364920.50229200",
+      "timestamp": 1719648000000,
+      "close": "61102.33000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80037.23900000",
+      "sumOpenInterestValue": "4891013033.37894100",
+      "timestamp": 1719662400000,
+      "close": "61106.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80222.42400000",
+      "sumOpenInterestValue": "4902243501.54413400",
+      "timestamp": 1719676800000,
+      "close": "61057.39000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80565.47800000",
+      "sumOpenInterestValue": "4919056625.36640700",
+      "timestamp": 1719691200000,
+      "close": "60986.68000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80535.81400000",
+      "sumOpenInterestValue": "4911275277.25500000",
+      "timestamp": 1719705600000,
+      "close": "60898.32000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80619.81000000",
+      "sumOpenInterestValue": "4909609375.32300000",
+      "timestamp": 1719720000000,
+      "close": "61528.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81922.96700000",
+      "sumOpenInterestValue": "5040698632.94293000",
+      "timestamp": 1719734400000,
+      "close": "61560.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82849.28800000",
+      "sumOpenInterestValue": "5099829347.48400000",
+      "timestamp": 1719748800000,
+      "close": "61717.90000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83442.07900000",
+      "sumOpenInterestValue": "5149595647.13272200",
+      "timestamp": 1719763200000,
+      "close": "62026.83000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84408.61800000",
+      "sumOpenInterestValue": "5234889536.40571800",
+      "timestamp": 1719777600000,
+      "close": "62772.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85675.69200000",
+      "sumOpenInterestValue": "5377548313.48160000",
+      "timestamp": 1719792000000,
+      "close": "63437.69000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83189.90700000",
+      "sumOpenInterestValue": "5275604418.27480000",
+      "timestamp": 1719806400000,
+      "close": "63277.84000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83012.27600000",
+      "sumOpenInterestValue": "5251676918.83441100",
+      "timestamp": 1719820800000,
+      "close": "62662.09000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83029.61900000",
+      "sumOpenInterestValue": "5202461564.34010000",
+      "timestamp": 1719835200000,
+      "close": "63132.90000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82885.46600000",
+      "sumOpenInterestValue": "5231730613.92000000",
+      "timestamp": 1719849600000,
+      "close": "63226.78000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82560.73000000",
+      "sumOpenInterestValue": "5220399515.89707400",
+      "timestamp": 1719864000000,
+      "close": "62899.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81856.17700000",
+      "sumOpenInterestValue": "5148136485.18277500",
+      "timestamp": 1719878400000,
+      "close": "63138.67000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82395.40900000",
+      "sumOpenInterestValue": "5200746794.33211000",
+      "timestamp": 1719892800000,
+      "close": "62629.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83389.73800000",
+      "sumOpenInterestValue": "5221952378.51980100",
+      "timestamp": 1719907200000,
+      "close": "62832.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84311.70800000",
+      "sumOpenInterestValue": "5297549922.97741800",
+      "timestamp": 1719921600000,
+      "close": "61948.08000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "86243.14000000",
+      "sumOpenInterestValue": "5341813848.46000000",
+      "timestamp": 1719936000000,
+      "close": "61939.10000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84283.29500000",
+      "sumOpenInterestValue": "5219720755.80882550",
+      "timestamp": 1719950400000,
+      "close": "62135.47000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84473.51800000",
+      "sumOpenInterestValue": "5247790595.47300000",
+      "timestamp": 1719964800000,
+      "close": "60987.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84192.12900000",
+      "sumOpenInterestValue": "5133640323.41370000",
+      "timestamp": 1719979200000,
+      "close": "60870.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85110.57400000",
+      "sumOpenInterestValue": "5181022560.54797200",
+      "timestamp": 1719993600000,
+      "close": "60386.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85871.94700000",
+      "sumOpenInterestValue": "5185601502.25647200",
+      "timestamp": 1720008000000,
+      "close": "60186.25000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "87907.82700000",
+      "sumOpenInterestValue": "5290723777.21230000",
+      "timestamp": 1720022400000,
+      "close": "59671.10000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "88701.98800000",
+      "sumOpenInterestValue": "5293628852.56513400",
+      "timestamp": 1720036800000,
+      "close": "60208.58000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "88025.50500000",
+      "sumOpenInterestValue": "5299830802.48950000",
+      "timestamp": 1720051200000,
+      "close": "59102.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "87643.69000000",
+      "sumOpenInterestValue": "5179075986.95600000",
+      "timestamp": 1720065600000,
+      "close": "58219.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "89116.79900000",
+      "sumOpenInterestValue": "5187845336.98600000",
+      "timestamp": 1720080000000,
+      "close": "57761.94000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "88379.42900000",
+      "sumOpenInterestValue": "5103805969.43520000",
+      "timestamp": 1720094400000,
+      "close": "58140.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "91884.37400000",
+      "sumOpenInterestValue": "5340770050.31260000",
+      "timestamp": 1720108800000,
+      "close": "58283.62000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "90767.88000000",
+      "sumOpenInterestValue": "5288772063.96000000",
+      "timestamp": 1720123200000,
+      "close": "57050.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "88552.54800000",
+      "sumOpenInterestValue": "5051533909.16240300",
+      "timestamp": 1720137600000,
+      "close": "55227.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85825.09600000",
+      "sumOpenInterestValue": "4738618112.90000000",
+      "timestamp": 1720152000000,
+      "close": "54415.05000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83941.34300000",
+      "sumOpenInterestValue": "4566199205.84250000",
+      "timestamp": 1720166400000,
+      "close": "55486.50000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83517.71900000",
+      "sumOpenInterestValue": "4632119184.53991500",
+      "timestamp": 1720180800000,
+      "close": "56662.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83287.22400000",
+      "sumOpenInterestValue": "4715848553.16268800",
+      "timestamp": 1720195200000,
+      "close": "56465.42000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83708.16200000",
+      "sumOpenInterestValue": "4724999283.06820000",
+      "timestamp": 1720209600000,
+      "close": "56628.79000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83117.82800000",
+      "sumOpenInterestValue": "4705217125.25200000",
+      "timestamp": 1720224000000,
+      "close": "56410.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82902.78200000",
+      "sumOpenInterestValue": "4674883310.33248200",
+      "timestamp": 1720238400000,
+      "close": "56606.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81538.68700000",
+      "sumOpenInterestValue": "4613668867.95252000",
+      "timestamp": 1720252800000,
+      "close": "56731.42000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81995.19100000",
+      "sumOpenInterestValue": "4650209666.22120000",
+      "timestamp": 1720267200000,
+      "close": "57317.98000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81656.61800000",
+      "sumOpenInterestValue": "4678048126.95150400",
+      "timestamp": 1720281600000,
+      "close": "57857.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80030.94200000",
+      "sumOpenInterestValue": "4628581527.47580000",
+      "timestamp": 1720296000000,
+      "close": "58230.13000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80177.38300000",
+      "sumOpenInterestValue": "4667614546.46630000",
+      "timestamp": 1720310400000,
+      "close": "57963.45000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80749.69600000",
+      "sumOpenInterestValue": "4678960385.02400000",
+      "timestamp": 1720324800000,
+      "close": "57369.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80694.69200000",
+      "sumOpenInterestValue": "4627568353.78577000",
+      "timestamp": 1720339200000,
+      "close": "57460.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81490.90900000",
+      "sumOpenInterestValue": "4680923548.33196000",
+      "timestamp": 1720353600000,
+      "close": "56825.42000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81829.15900000",
+      "sumOpenInterestValue": "4648395389.06990000",
+      "timestamp": 1720368000000,
+      "close": "57151.10000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81614.30800000",
+      "sumOpenInterestValue": "4662961543.12047700",
+      "timestamp": 1720382400000,
+      "close": "55857.81000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81293.27800000",
+      "sumOpenInterestValue": "4538953271.83540000",
+      "timestamp": 1720396800000,
+      "close": "55160.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78934.87100000",
+      "sumOpenInterestValue": "4352524568.70173300",
+      "timestamp": 1720411200000,
+      "close": "55852.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78597.21200000",
+      "sumOpenInterestValue": "4387742572.44232700",
+      "timestamp": 1720425600000,
+      "close": "57154.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81288.21800000",
+      "sumOpenInterestValue": "4644833162.98540000",
+      "timestamp": 1720440000000,
+      "close": "55761.52000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79303.34700000",
+      "sumOpenInterestValue": "4420067097.13662100",
+      "timestamp": 1720454400000,
+      "close": "56477.31000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79031.79700000",
+      "sumOpenInterestValue": "4461515976.66857800",
+      "timestamp": 1720468800000,
+      "close": "56714.62000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78848.78700000",
+      "sumOpenInterestValue": "4470642111.93498100",
+      "timestamp": 1720483200000,
+      "close": "57168.36000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78259.42800000",
+      "sumOpenInterestValue": "4471704586.20600000",
+      "timestamp": 1720497600000,
+      "close": "57116.84000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "77878.06500000",
+      "sumOpenInterestValue": "4447039994.46900000",
+      "timestamp": 1720512000000,
+      "close": "57428.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78489.07000000",
+      "sumOpenInterestValue": "4506287958.17596500",
+      "timestamp": 1720526400000,
+      "close": "57477.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81085.38300000",
+      "sumOpenInterestValue": "4658633414.16894700",
+      "timestamp": 1720540800000,
+      "close": "57862.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81728.24200000",
+      "sumOpenInterestValue": "4727483496.99237400",
+      "timestamp": 1720555200000,
+      "close": "58050.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82178.81100000",
+      "sumOpenInterestValue": "4768513096.89987100",
+      "timestamp": 1720569600000,
+      "close": "58180.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82251.06300000",
+      "sumOpenInterestValue": "4784843137.07162300",
+      "timestamp": 1720584000000,
+      "close": "58977.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81988.16900000",
+      "sumOpenInterestValue": "4833288344.55180500",
+      "timestamp": 1720598400000,
+      "close": "58492.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80631.30100000",
+      "sumOpenInterestValue": "4714524905.21221350",
+      "timestamp": 1720612800000,
+      "close": "57699.69000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83694.31200000",
+      "sumOpenInterestValue": "4826010035.46971000",
+      "timestamp": 1720627200000,
+      "close": "57392.03000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83725.61300000",
+      "sumOpenInterestValue": "4803775840.79066400",
+      "timestamp": 1720641600000,
+      "close": "57725.85000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81986.51300000",
+      "sumOpenInterestValue": "4768725735.00764700",
+      "timestamp": 1720684800000,
+      "close": "57568.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81947.68300000",
+      "sumOpenInterestValue": "4815492034.96218200",
+      "timestamp": 1720699200000,
+      "close": "58191.50000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85120.21100000",
+      "sumOpenInterestValue": "4884027466.75800000",
+      "timestamp": 1720713600000,
+      "close": "58777.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85032.09300000",
+      "sumOpenInterestValue": "4877551396.20090000",
+      "timestamp": 1720728000000,
+      "close": "57402.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85093.51400000",
+      "sumOpenInterestValue": "4876779182.91073400",
+      "timestamp": 1720742400000,
+      "close": "57378.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83984.68600000",
+      "sumOpenInterestValue": "4777712023.19703700",
+      "timestamp": 1720756800000,
+      "close": "57339.89000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83608.16300000",
+      "sumOpenInterestValue": "4772274100.02351700",
+      "timestamp": 1720771200000,
+      "close": "56914.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83760.47900000",
+      "sumOpenInterestValue": "4790161281.43520000",
+      "timestamp": 1720785600000,
+      "close": "57106.94000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85596.54900000",
+      "sumOpenInterestValue": "4980597837.00810000",
+      "timestamp": 1720800000000,
+      "close": "57203.54000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84518.12700000",
+      "sumOpenInterestValue": "4865366316.13398600",
+      "timestamp": 1720814400000,
+      "close": "58214.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83123.56400000",
+      "sumOpenInterestValue": "4803918572.47000000",
+      "timestamp": 1720843200000,
+      "close": "57576.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82901.45600000",
+      "sumOpenInterestValue": "4820053233.94255900",
+      "timestamp": 1720857600000,
+      "close": "57889.10000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83663.07200000",
+      "sumOpenInterestValue": "4920099769.71200000",
+      "timestamp": 1720886400000,
+      "close": "57814.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83701.76700000",
+      "sumOpenInterestValue": "4905010203.64881800",
+      "timestamp": 1720900800000,
+      "close": "58170.32000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85453.39900000",
+      "sumOpenInterestValue": "5056709797.98460700",
+      "timestamp": 1720915200000,
+      "close": "58534.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "86520.17600000",
+      "sumOpenInterestValue": "5193921324.24768450",
+      "timestamp": 1720944000000,
+      "close": "58830.63000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "87671.90100000",
+      "sumOpenInterestValue": "5267248907.36910000",
+      "timestamp": 1720958400000,
+      "close": "58624.38000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "87664.04000000",
+      "sumOpenInterestValue": "5264871157.28963100",
+      "timestamp": 1720972800000,
+      "close": "59204.02000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84969.23500000",
+      "sumOpenInterestValue": "5163249030.93350000",
+      "timestamp": 1721001600000,
+      "close": "59466.15000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "86372.88700000",
+      "sumOpenInterestValue": "5426077574.66191600",
+      "timestamp": 1721030400000,
+      "close": "60062.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "86003.82900000",
+      "sumOpenInterestValue": "5369447010.73262900",
+      "timestamp": 1721044800000,
+      "close": "60099.10000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85430.10400000",
+      "sumOpenInterestValue": "5381544700.79317800",
+      "timestamp": 1721059200000,
+      "close": "60084.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83888.18400000",
+      "sumOpenInterestValue": "5311032855.72109200",
+      "timestamp": 1721073600000,
+      "close": "59915.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85234.98700000",
+      "sumOpenInterestValue": "5514588554.79319000",
+      "timestamp": 1721088000000,
+      "close": "60797.91000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "85699.90400000",
+      "sumOpenInterestValue": "5547061185.95042700",
+      "timestamp": 1721102400000,
+      "close": "62647.87000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84778.83900000",
+      "sumOpenInterestValue": "5331045998.23020000",
+      "timestamp": 1721116800000,
+      "close": "62840.12000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83642.00200000",
+      "sumOpenInterestValue": "5329660003.23980000",
+      "timestamp": 1721131200000,
+      "close": "62454.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84169.48600000",
+      "sumOpenInterestValue": "5457754498.36282000",
+      "timestamp": 1721145600000,
+      "close": "63026.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82710.87700000",
+      "sumOpenInterestValue": "5387104202.93372400",
+      "timestamp": 1721160000000,
+      "close": "63342.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83191.06500000",
+      "sumOpenInterestValue": "5408023078.26080200",
+      "timestamp": 1721174400000,
+      "close": "64724.14000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83319.76900000",
+      "sumOpenInterestValue": "5471423635.14876700",
+      "timestamp": 1721188800000,
+      "close": "64752.14000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "84350.38000000",
+      "sumOpenInterestValue": "5502720547.39963900",
+      "timestamp": 1721203200000,
+      "close": "62895.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "83603.45000000",
+      "sumOpenInterestValue": "5409355769.95292800",
+      "timestamp": 1721217600000,
+      "close": "63746.11000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "82088.68100000",
+      "sumOpenInterestValue": "5310792888.23980000",
+      "timestamp": 1721232000000,
+      "close": "64878.24000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79562.48100000",
+      "sumOpenInterestValue": "5134935255.25110500",
+      "timestamp": 1721246400000,
+      "close": "65165.43000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79387.04400000",
+      "sumOpenInterestValue": "5085319693.62120000",
+      "timestamp": 1721260800000,
+      "close": "65043.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "78224.33700000",
+      "sumOpenInterestValue": "5071360022.56940000",
+      "timestamp": 1721275200000,
+      "close": "65701.66000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79044.70900000",
+      "sumOpenInterestValue": "5109742455.18330000",
+      "timestamp": 1721289600000,
+      "close": "65258.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79305.27600000",
+      "sumOpenInterestValue": "5133351210.20400000",
+      "timestamp": 1721304000000,
+      "close": "64723.73000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "79169.69600000",
+      "sumOpenInterestValue": "5028033319.67031000",
+      "timestamp": 1721318400000,
+      "close": "64724.01000000"
+    }
+  ]
+  (base) juristoffers@Juris-MBP ~ % 
+    [Restored 22 Jul 2024 at 09:36:21]
+  Last login: Thu Jul 18 20:57:32 on ttys011
+  Restored session: Sun Jul 21 12:07:24 CEST 2024
+  HOME=/Users/juristoffers
+  HOMEBREW_CELLAR=/opt/homebrew/Cellar
+  HOMEBREW_PREFIX=/opt/homebrew
+  HOMEBREW_REPOSITORY=/opt/homebrew
+  INFOPATH=/opt/homebrew/share/info:
+  LC_CTYPE=UTF-8
+  LOGNAME=juristoffers
+  MANPATH=/opt/homebrew/share/man::
+  OLDPWD=/Users/juristoffers
+  PATH=/Users/juristoffers/.local/share/solana/install/active_release/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+  PWD=/Users/juristoffers
+  SHELL=/bin/zsh
+  SHLVL=1
+  SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.HompZPF0Lr/Listeners
+  TERM=xterm-256color
+  TERM_PROGRAM=Apple_Terminal
+  TERM_PROGRAM_VERSION=453
+  TERM_SESSION_ID=08E83EBD-DAF3-4F55-AA34-C360C58FAC8E
+  TMPDIR=/var/folders/cp/wnlltwfj2glc42pz_k0fl1w00000gn/T/
+  USER=juristoffers
+  XPC_FLAGS=0x0
+  XPC_SERVICE_NAME=0
+  __CFBundleIdentifier=com.apple.Terminal
+  (base) juristoffers@Juris-MBP ~ % node /Users/juristoffers/Desktop/Code/algotrading/GPTAPI/oiDataB.js
+  (node:28955) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit
+  (Use `node --trace-warnings ...` to show where the warning was created)
+  [
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80356.52800000",
+      "sumOpenInterestValue": "5470229901.72013400",
+      "timestamp": 1721603700000,
+      "close": "68116.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80489.39200000",
+      "sumOpenInterestValue": "5480741691.22374100",
+      "timestamp": 1721604000000,
+      "close": "68078.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80491.40900000",
+      "sumOpenInterestValue": "5477187729.77895600",
+      "timestamp": 1721604300000,
+      "close": "68052.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80514.12900000",
+      "sumOpenInterestValue": "5477102447.83140000",
+      "timestamp": 1721604600000,
+      "close": "68000.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80580.47500000",
+      "sumOpenInterestValue": "5477216046.70000000",
+      "timestamp": 1721604900000,
+      "close": "67964.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80634.02000000",
+      "sumOpenInterestValue": "5478009226.53400000",
+      "timestamp": 1721605200000,
+      "close": "67954.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80652.31600000",
+      "sumOpenInterestValue": "5478346569.84487900",
+      "timestamp": 1721605500000,
+      "close": "67930.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80647.55800000",
+      "sumOpenInterestValue": "5476864376.09380000",
+      "timestamp": 1721605800000,
+      "close": "68072.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80625.33800000",
+      "sumOpenInterestValue": "5486357309.50247700",
+      "timestamp": 1721606100000,
+      "close": "68165.34000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80653.70800000",
+      "sumOpenInterestValue": "5495582355.70400000",
+      "timestamp": 1721606400000,
+      "close": "68177.20000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80734.83300000",
+      "sumOpenInterestValue": "5501995223.08211800",
+      "timestamp": 1721606700000,
+      "close": "68137.28000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80745.72700000",
+      "sumOpenInterestValue": "5499686199.13152300",
+      "timestamp": 1721607000000,
+      "close": "68122.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80800.55900000",
+      "sumOpenInterestValue": "5501344540.06452300",
+      "timestamp": 1721607300000,
+      "close": "68136.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80837.67400000",
+      "sumOpenInterestValue": "5505487407.10053500",
+      "timestamp": 1721607600000,
+      "close": "68036.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80865.84600000",
+      "sumOpenInterestValue": "5499750879.13680000",
+      "timestamp": 1721607900000,
+      "close": "68220.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80844.12700000",
+      "sumOpenInterestValue": "5513846146.69774300",
+      "timestamp": 1721608200000,
+      "close": "68324.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80843.47600000",
+      "sumOpenInterestValue": "5521207643.37830600",
+      "timestamp": 1721608500000,
+      "close": "68302.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80775.88500000",
+      "sumOpenInterestValue": "5515078335.32154400",
+      "timestamp": 1721608800000,
+      "close": "68349.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80824.35600000",
+      "sumOpenInterestValue": "5522461525.10520000",
+      "timestamp": 1721609100000,
+      "close": "68424.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80913.02600000",
+      "sumOpenInterestValue": "5534418613.18960000",
+      "timestamp": 1721609400000,
+      "close": "68322.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80989.28500000",
+      "sumOpenInterestValue": "5530853772.22798700",
+      "timestamp": 1721609700000,
+      "close": "68188.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80912.80500000",
+      "sumOpenInterestValue": "5515324257.45900000",
+      "timestamp": 1721610000000,
+      "close": "68080.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80990.05600000",
+      "sumOpenInterestValue": "5511357876.93564800",
+      "timestamp": 1721610300000,
+      "close": "68106.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80992.57900000",
+      "sumOpenInterestValue": "5513522872.47124000",
+      "timestamp": 1721610600000,
+      "close": "68062.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81034.39300000",
+      "sumOpenInterestValue": "5512708366.77720500",
+      "timestamp": 1721610900000,
+      "close": "67890.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80859.64800000",
+      "sumOpenInterestValue": "5487240830.82240000",
+      "timestamp": 1721611200000,
+      "close": "68004.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80897.08600000",
+      "sumOpenInterestValue": "5499032596.62736700",
+      "timestamp": 1721611500000,
+      "close": "67950.70000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80960.42300000",
+      "sumOpenInterestValue": "5499204348.10580000",
+      "timestamp": 1721611800000,
+      "close": "67831.98000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80844.06200000",
+      "sumOpenInterestValue": "5481445682.56740000",
+      "timestamp": 1721612100000,
+      "close": "67812.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80809.32100000",
+      "sumOpenInterestValue": "5477045673.14540000",
+      "timestamp": 1721612400000,
+      "close": "67908.91000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80726.60500000",
+      "sumOpenInterestValue": "5479541934.51384300",
+      "timestamp": 1721612700000,
+      "close": "67867.62000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80731.96300000",
+      "sumOpenInterestValue": "5476193233.54820100",
+      "timestamp": 1721613000000,
+      "close": "67811.53000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80863.27600000",
+      "sumOpenInterestValue": "5483139266.75443500",
+      "timestamp": 1721613300000,
+      "close": "67850.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80829.77400000",
+      "sumOpenInterestValue": "5481531602.25218600",
+      "timestamp": 1721613600000,
+      "close": "67839.94000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80859.65600000",
+      "sumOpenInterestValue": "5482861276.11109700",
+      "timestamp": 1721613900000,
+      "close": "67897.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80923.78100000",
+      "sumOpenInterestValue": "5491892397.56500000",
+      "timestamp": 1721614200000,
+      "close": "67818.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80930.73500000",
+      "sumOpenInterestValue": "5486237121.65204700",
+      "timestamp": 1721614500000,
+      "close": "67858.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "80968.90700000",
+      "sumOpenInterestValue": "5492145252.48210000",
+      "timestamp": 1721614800000,
+      "close": "67904.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81003.07600000",
+      "sumOpenInterestValue": "5497678768.12000000",
+      "timestamp": 1721615100000,
+      "close": "68114.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81305.75100000",
+      "sumOpenInterestValue": "5534719830.31254400",
+      "timestamp": 1721615400000,
+      "close": "68180.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81362.61600000",
+      "sumOpenInterestValue": "5544390377.22720000",
+      "timestamp": 1721615700000,
+      "close": "68154.12000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81319.10200000",
+      "sumOpenInterestValue": "5539026236.99940000",
+      "timestamp": 1721616000000,
+      "close": "68128.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81344.24300000",
+      "sumOpenInterestValue": "5538779644.50017500",
+      "timestamp": 1721616300000,
+      "close": "68198.72000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81370.85100000",
+      "sumOpenInterestValue": "5546369017.43622800",
+      "timestamp": 1721616600000,
+      "close": "68131.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81394.50200000",
+      "sumOpenInterestValue": "5542469079.73780000",
+      "timestamp": 1721616900000,
+      "close": "68070.62000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81387.25300000",
+      "sumOpenInterestValue": "5537141064.22850000",
+      "timestamp": 1721617200000,
+      "close": "68000.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81401.87100000",
+      "sumOpenInterestValue": "5532828190.56030000",
+      "timestamp": 1721617500000,
+      "close": "68007.46000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81442.56500000",
+      "sumOpenInterestValue": "5537125253.47650000",
+      "timestamp": 1721617800000,
+      "close": "68044.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81439.95700000",
+      "sumOpenInterestValue": "5538756718.96945200",
+      "timestamp": 1721618100000,
+      "close": "68058.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81531.84500000",
+      "sumOpenInterestValue": "5546670820.26187800",
+      "timestamp": 1721618400000,
+      "close": "67964.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81524.92600000",
+      "sumOpenInterestValue": "5538697098.02277850",
+      "timestamp": 1721618700000,
+      "close": "68025.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81480.42900000",
+      "sumOpenInterestValue": "5539960292.26770000",
+      "timestamp": 1721619000000,
+      "close": "67992.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81456.04400000",
+      "sumOpenInterestValue": "5535638357.64662000",
+      "timestamp": 1721619300000,
+      "close": "67968.81000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81467.79000000",
+      "sumOpenInterestValue": "5534573088.32721300",
+      "timestamp": 1721619600000,
+      "close": "67901.34000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81496.46800000",
+      "sumOpenInterestValue": "5531320126.44920000",
+      "timestamp": 1721619900000,
+      "close": "67904.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81449.46500000",
+      "sumOpenInterestValue": "5528105508.69400000",
+      "timestamp": 1721620200000,
+      "close": "67857.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81457.13300000",
+      "sumOpenInterestValue": "5524919648.57130000",
+      "timestamp": 1721620500000,
+      "close": "67880.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81476.70500000",
+      "sumOpenInterestValue": "5528181731.97384200",
+      "timestamp": 1721620800000,
+      "close": "67806.98000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81464.74000000",
+      "sumOpenInterestValue": "5521761541.94000000",
+      "timestamp": 1721621100000,
+      "close": "67912.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81428.82700000",
+      "sumOpenInterestValue": "5527232956.05820100",
+      "timestamp": 1721621400000,
+      "close": "67964.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81415.08500000",
+      "sumOpenInterestValue": "5530396374.45665600",
+      "timestamp": 1721621700000,
+      "close": "67945.40000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81415.34200000",
+      "sumOpenInterestValue": "5529225699.28325200",
+      "timestamp": 1721622000000,
+      "close": "67952.79000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81422.12300000",
+      "sumOpenInterestValue": "5530003323.27710000",
+      "timestamp": 1721622300000,
+      "close": "67916.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81435.21000000",
+      "sumOpenInterestValue": "5528310666.06000000",
+      "timestamp": 1721622600000,
+      "close": "67892.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81471.73500000",
+      "sumOpenInterestValue": "5528670877.38981100",
+      "timestamp": 1721622900000,
+      "close": "67842.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81406.71400000",
+      "sumOpenInterestValue": "5520327667.75380000",
+      "timestamp": 1721623200000,
+      "close": "67860.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81426.84500000",
+      "sumOpenInterestValue": "5523802431.63380050",
+      "timestamp": 1721623500000,
+      "close": "67910.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81433.30000000",
+      "sumOpenInterestValue": "5527985563.88000000",
+      "timestamp": 1721623800000,
+      "close": "67925.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81402.03900000",
+      "sumOpenInterestValue": "5526894892.39130100",
+      "timestamp": 1721624100000,
+      "close": "67923.98000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81364.47800000",
+      "sumOpenInterestValue": "5524208688.01880000",
+      "timestamp": 1721624400000,
+      "close": "67834.67000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81374.48900000",
+      "sumOpenInterestValue": "5517328464.55895400",
+      "timestamp": 1721624700000,
+      "close": "67812.56000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81436.68100000",
+      "sumOpenInterestValue": "5520221776.42109100",
+      "timestamp": 1721625000000,
+      "close": "67804.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81490.71500000",
+      "sumOpenInterestValue": "5523424364.55700000",
+      "timestamp": 1721625300000,
+      "close": "67760.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81492.48300000",
+      "sumOpenInterestValue": "5519218417.57273600",
+      "timestamp": 1721625600000,
+      "close": "67745.99000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81516.20200000",
+      "sumOpenInterestValue": "5519824497.76691100",
+      "timestamp": 1721625900000,
+      "close": "67762.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81553.20400000",
+      "sumOpenInterestValue": "5523576320.97842300",
+      "timestamp": 1721626200000,
+      "close": "67730.87000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81477.98000000",
+      "sumOpenInterestValue": "5516662183.05200000",
+      "timestamp": 1721626500000,
+      "close": "67658.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81476.78400000",
+      "sumOpenInterestValue": "5511032636.01120000",
+      "timestamp": 1721626800000,
+      "close": "67622.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81481.93800000",
+      "sumOpenInterestValue": "5508182738.47682200",
+      "timestamp": 1721627100000,
+      "close": "67667.50000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81360.71900000",
+      "sumOpenInterestValue": "5503312257.80710000",
+      "timestamp": 1721627400000,
+      "close": "67682.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81397.53800000",
+      "sumOpenInterestValue": "5507037132.73628800",
+      "timestamp": 1721627700000,
+      "close": "67626.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81423.06800000",
+      "sumOpenInterestValue": "5504199396.80000000",
+      "timestamp": 1721628000000,
+      "close": "67590.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81469.10800000",
+      "sumOpenInterestValue": "5504232168.51760000",
+      "timestamp": 1721628300000,
+      "close": "67662.02000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81527.03700000",
+      "sumOpenInterestValue": "5514472477.27260000",
+      "timestamp": 1721628600000,
+      "close": "67737.50000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81453.41100000",
+      "sumOpenInterestValue": "5514824601.87042200",
+      "timestamp": 1721628900000,
+      "close": "67676.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81447.09300000",
+      "sumOpenInterestValue": "5509643355.46170000",
+      "timestamp": 1721629200000,
+      "close": "67682.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81480.78500000",
+      "sumOpenInterestValue": "5512657474.38650900",
+      "timestamp": 1721629500000,
+      "close": "67562.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81535.66400000",
+      "sumOpenInterestValue": "5506703640.44319200",
+      "timestamp": 1721629800000,
+      "close": "67489.37000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81546.86600000",
+      "sumOpenInterestValue": "5502056750.57260000",
+      "timestamp": 1721630100000,
+      "close": "67238.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81565.32900000",
+      "sumOpenInterestValue": "5481898479.96479900",
+      "timestamp": 1721630400000,
+      "close": "67259.87000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81418.68100000",
+      "sumOpenInterestValue": "5473834916.70670000",
+      "timestamp": 1721630700000,
+      "close": "67316.01000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81463.21600000",
+      "sumOpenInterestValue": "5481863462.68000000",
+      "timestamp": 1721631000000,
+      "close": "67366.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81408.72100000",
+      "sumOpenInterestValue": "5481842845.61469100",
+      "timestamp": 1721631300000,
+      "close": "67412.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81274.23600000",
+      "sumOpenInterestValue": "5476662144.84958000",
+      "timestamp": 1721631600000,
+      "close": "67346.84000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81264.67200000",
+      "sumOpenInterestValue": "5470955235.74967900",
+      "timestamp": 1721631900000,
+      "close": "67284.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81274.30000000",
+      "sumOpenInterestValue": "5466793137.35829300",
+      "timestamp": 1721632200000,
+      "close": "67297.97000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81321.42700000",
+      "sumOpenInterestValue": "5470663169.28670000",
+      "timestamp": 1721632500000,
+      "close": "67227.15000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81316.93200000",
+      "sumOpenInterestValue": "5464835634.77648300",
+      "timestamp": 1721632800000,
+      "close": "67252.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81338.00400000",
+      "sumOpenInterestValue": "5468782157.17432800",
+      "timestamp": 1721633100000,
+      "close": "67232.00000000"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "sumOpenInterest": "81365.58400000",
+      "sumOpenInterestValue": "5468808724.27520000",
+      "timestamp": 1721633400000,
+      "close": "67308.00000000"
+    }
+  ]
+  

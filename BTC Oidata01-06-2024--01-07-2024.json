@@ -1,0 +1,902 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "191779.66200000",
+    "timestamp": "1717214400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "183049.14000000",
+    "timestamp": "1717228800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "182711.05300000",
+    "timestamp": "1717243200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "182757.94800000",
+    "timestamp": "1717257600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "181065.78100000",
+    "timestamp": "1717272000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "180574.33000000",
+    "timestamp": "1717286400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179955.62400000",
+    "timestamp": "1717300800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179538.53500000",
+    "timestamp": "1717315200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179533.88700000",
+    "timestamp": "1717329600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179036.06500000",
+    "timestamp": "1717344000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179282.31100000",
+    "timestamp": "1717358400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179295.16800000",
+    "timestamp": "1717372800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178960.49400000",
+    "timestamp": "1717387200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178925.62800000",
+    "timestamp": "1717401600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178780.80600000",
+    "timestamp": "1717416000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178947.73100000",
+    "timestamp": "1717430400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178997.80600000",
+    "timestamp": "1717444800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "179090.77100000",
+    "timestamp": "1717459200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178957.10400000",
+    "timestamp": "1717473600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178940.00000000",
+    "timestamp": "1717488000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178604.35200000",
+    "timestamp": "1717502400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "275701.08800000",
+    "timestamp": "1717516800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "277605.97499999",
+    "timestamp": "1717531200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "278718.00300000",
+    "timestamp": "1717545600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "278790.40300000",
+    "timestamp": "1717560000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "278049.56800000",
+    "timestamp": "1717574400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "277893.45200000",
+    "timestamp": "1717588800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154451.47300000",
+    "timestamp": "1717603200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154571.73100000",
+    "timestamp": "1717617600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154850.95100000",
+    "timestamp": "1717632000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154867.89200000",
+    "timestamp": "1717646400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154696.32199999",
+    "timestamp": "1717660800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "153927.09099999",
+    "timestamp": "1717675200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "158195.64200000",
+    "timestamp": "1717689600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157833.10400000",
+    "timestamp": "1717704000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157859.37700000",
+    "timestamp": "1717718400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157850.75500000",
+    "timestamp": "1717732800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157847.46900000",
+    "timestamp": "1717747200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155428.69300000",
+    "timestamp": "1717761600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155831.14600000",
+    "timestamp": "1717776000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154558.72700000",
+    "timestamp": "1717790400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154762.96100000",
+    "timestamp": "1717804800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155057.54700000",
+    "timestamp": "1717819200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155056.66800000",
+    "timestamp": "1717833600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155055.10200000",
+    "timestamp": "1717848000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155036.33900000",
+    "timestamp": "1717862400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155037.76800000",
+    "timestamp": "1717876800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155039.92600000",
+    "timestamp": "1717891200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155037.37000000",
+    "timestamp": "1717905600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155049.21500000",
+    "timestamp": "1717920000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155047.57900000",
+    "timestamp": "1717934400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155227.26400000",
+    "timestamp": "1717948800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155277.22200000",
+    "timestamp": "1717963200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155060.38300000",
+    "timestamp": "1717977600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155079.60200000",
+    "timestamp": "1717992000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154875.96000000",
+    "timestamp": "1718006400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154728.45400000",
+    "timestamp": "1718020800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155816.15200000",
+    "timestamp": "1718035200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157509.37500000",
+    "timestamp": "1718049600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157560.32199999",
+    "timestamp": "1718064000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155427.16399999",
+    "timestamp": "1718078400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155570.97399999",
+    "timestamp": "1718092800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155206.44699999",
+    "timestamp": "1718107200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156214.27600000",
+    "timestamp": "1718121600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155571.30200000",
+    "timestamp": "1718136000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155797.99200000",
+    "timestamp": "1718150400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155769.10400000",
+    "timestamp": "1718164800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156352.73800000",
+    "timestamp": "1718179200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155878.22800000",
+    "timestamp": "1718193600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157250.86200000",
+    "timestamp": "1718208000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157096.09600000",
+    "timestamp": "1718222400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157101.60500000",
+    "timestamp": "1718236800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156531.47100000",
+    "timestamp": "1718251200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "152410.85600000",
+    "timestamp": "1718265600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155525.93400000",
+    "timestamp": "1718280000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "159513.21299999",
+    "timestamp": "1718294400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "159664.10000000",
+    "timestamp": "1718308800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154534.74700000",
+    "timestamp": "1718323200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154456.91900000",
+    "timestamp": "1718337600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154551.81200000",
+    "timestamp": "1718352000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154665.22900000",
+    "timestamp": "1718366400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154589.33600000",
+    "timestamp": "1718380800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155359.28099999",
+    "timestamp": "1718395200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155490.17000000",
+    "timestamp": "1718409600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155687.60400000",
+    "timestamp": "1718424000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155687.96299999",
+    "timestamp": "1718438400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154767.50300000",
+    "timestamp": "1718452800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154672.92900000",
+    "timestamp": "1718467200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154701.40500000",
+    "timestamp": "1718481600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154695.69100000",
+    "timestamp": "1718496000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154708.11300000",
+    "timestamp": "1718510400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154696.19399999",
+    "timestamp": "1718524800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154524.58799999",
+    "timestamp": "1718539200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155192.96700000",
+    "timestamp": "1718553600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155119.93800000",
+    "timestamp": "1718568000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155123.96400000",
+    "timestamp": "1718582400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154842.78700000",
+    "timestamp": "1718596800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154205.97800000",
+    "timestamp": "1718611200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154958.14400000",
+    "timestamp": "1718625600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154843.49000000",
+    "timestamp": "1718640000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154973.83799999",
+    "timestamp": "1718654400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155376.91900000",
+    "timestamp": "1718668800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154559.48300000",
+    "timestamp": "1718683200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154465.29500000",
+    "timestamp": "1718697600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154437.70000000",
+    "timestamp": "1718712000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154607.87599999",
+    "timestamp": "1718726400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154387.21200000",
+    "timestamp": "1718740800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154640.81600000",
+    "timestamp": "1718755200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154777.72800000",
+    "timestamp": "1718769600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154671.79400000",
+    "timestamp": "1718784000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154735.01700000",
+    "timestamp": "1718798400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154874.50700000",
+    "timestamp": "1718812800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154793.23800000",
+    "timestamp": "1718827200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154795.38800000",
+    "timestamp": "1718841600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155175.93800000",
+    "timestamp": "1718856000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155139.59099999",
+    "timestamp": "1718870400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "154989.10699999",
+    "timestamp": "1718884800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155496.50099999",
+    "timestamp": "1718899200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155599.18900000",
+    "timestamp": "1718913600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155631.26199999",
+    "timestamp": "1718928000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "155765.90900000",
+    "timestamp": "1718942400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "158410.44200000",
+    "timestamp": "1718956800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157008.04000000",
+    "timestamp": "1718971200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157053.71299999",
+    "timestamp": "1718985600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157238.77900000",
+    "timestamp": "1719000000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157122.41000000",
+    "timestamp": "1719014400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157082.37899999",
+    "timestamp": "1719028800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "157117.78600000",
+    "timestamp": "1719043200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156942.23499999",
+    "timestamp": "1719057600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156948.08700000",
+    "timestamp": "1719072000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156904.26000000",
+    "timestamp": "1719086400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156905.67900000",
+    "timestamp": "1719100800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156909.95000000",
+    "timestamp": "1719115200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156916.15100000",
+    "timestamp": "1719129600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156974.04900000",
+    "timestamp": "1719144000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "156970.94200000",
+    "timestamp": "1719158400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "161089.49600000",
+    "timestamp": "1719172800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "160853.44900000",
+    "timestamp": "1719187200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "161466.12200000",
+    "timestamp": "1719201600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "159304.68000000",
+    "timestamp": "1719216000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "158709.69699999",
+    "timestamp": "1719230400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "159234.41200000",
+    "timestamp": "1719244800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "166867.38800000",
+    "timestamp": "1719259200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "163719.01800000",
+    "timestamp": "1719273600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "163856.17700000",
+    "timestamp": "1719288000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169782.58500000",
+    "timestamp": "1719302400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169794.21700000",
+    "timestamp": "1719316800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "178968.11900000",
+    "timestamp": "1719331200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169759.32000000",
+    "timestamp": "1719345600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169888.24800000",
+    "timestamp": "1719360000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169937.05300000",
+    "timestamp": "1719374400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169951.77400000",
+    "timestamp": "1719388800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169954.33500000",
+    "timestamp": "1719403200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "169995.98400000",
+    "timestamp": "1719417600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "201347.07300000",
+    "timestamp": "1719432000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200687.80700000",
+    "timestamp": "1719446400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200699.54700000",
+    "timestamp": "1719460800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "62139.66000000",
+    "timestamp": "1719475200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200987.96800000",
+    "timestamp": "1719489600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "201005.24100000",
+    "timestamp": "1719504000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200879.16600000",
+    "timestamp": "1719518400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200918.24900000",
+    "timestamp": "1719532800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200921.30800000",
+    "timestamp": "1719547200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "200994.28300000",
+    "timestamp": "1719561600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "201026.65900000",
+    "timestamp": "1719576000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202406.68300000",
+    "timestamp": "1719590400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202109.38100000",
+    "timestamp": "1719604800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202279.35900000",
+    "timestamp": "1719619200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202333.12500000",
+    "timestamp": "1719633600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202339.35700000",
+    "timestamp": "1719648000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202320.76700000",
+    "timestamp": "1719662400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202362.31400000",
+    "timestamp": "1719676800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "212747.57100000",
+    "timestamp": "1719691200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "212748.17900000",
+    "timestamp": "1719705600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "212741.17700000",
+    "timestamp": "1719720000000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "212559.12400000",
+    "timestamp": "1719734400000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "212433.56800000",
+    "timestamp": "1719748800000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202071.45400000",
+    "timestamp": "1719763200000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "201993.03500000",
+    "timestamp": "1719777600000"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "openInterest": "202333.14700000",
+    "timestamp": "1719792000000"
+  }
+]
