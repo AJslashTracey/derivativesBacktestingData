@@ -1211,37 +1211,7 @@
       "close": "64724.01000000"
     }
   ]
-  (base) juristoffers@Juris-MBP ~ % 
-    [Restored 22 Jul 2024 at 09:36:21]
-  Last login: Thu Jul 18 20:57:32 on ttys011
-  Restored session: Sun Jul 21 12:07:24 CEST 2024
-  HOME=/Users/juristoffers
-  HOMEBREW_CELLAR=/opt/homebrew/Cellar
-  HOMEBREW_PREFIX=/opt/homebrew
-  HOMEBREW_REPOSITORY=/opt/homebrew
-  INFOPATH=/opt/homebrew/share/info:
-  LC_CTYPE=UTF-8
-  LOGNAME=juristoffers
-  MANPATH=/opt/homebrew/share/man::
-  OLDPWD=/Users/juristoffers
-  PATH=/Users/juristoffers/.local/share/solana/install/active_release/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
-  PWD=/Users/juristoffers
-  SHELL=/bin/zsh
-  SHLVL=1
-  SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.HompZPF0Lr/Listeners
-  TERM=xterm-256color
-  TERM_PROGRAM=Apple_Terminal
-  TERM_PROGRAM_VERSION=453
-  TERM_SESSION_ID=08E83EBD-DAF3-4F55-AA34-C360C58FAC8E
-  TMPDIR=/var/folders/cp/wnlltwfj2glc42pz_k0fl1w00000gn/T/
-  USER=juristoffers
-  XPC_FLAGS=0x0
-  XPC_SERVICE_NAME=0
-  __CFBundleIdentifier=com.apple.Terminal
-  (base) juristoffers@Juris-MBP ~ % node /Users/juristoffers/Desktop/Code/algotrading/GPTAPI/oiDataB.js
-  (node:28955) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit
-  (Use `node --trace-warnings ...` to show where the warning was created)
-  [
+ 
     {
       "symbol": "BTCUSDT",
       "sumOpenInterest": "80356.52800000",
