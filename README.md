@@ -1,4 +1,4 @@
-# BTC Futures Data for Systemic Backtesting
+# BTC Futures Data for Systematic trading backtests 
 
 This repository contains various BTC Futures datasets formatted for use in systemic backtesting models. The data includes a variety of metrics across different time intervals, facilitating comprehensive analysis and strategy testing for BTC Futures contracts.
 
